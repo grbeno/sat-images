@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+matplotlib = "==3.5.2"
+numpy = "==1.22.4"
+opencv-python = "==4.6.0.66"
+scikit-learn = "==1.1.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
