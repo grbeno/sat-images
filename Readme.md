@@ -1,4 +1,4 @@
-## Satellite-image analyzer program
+## Satellite-image analyzer
 
 This is a Python-based image analyzer program to assess results by the color composition of images.
 ## Methods:
