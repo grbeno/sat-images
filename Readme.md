@@ -1,6 +1,6 @@
 ## Satellite-image analyzer
 
-This is a Python-based image analyzer program to assess results by the color composition of images.
+This is a Python-based image analysis program designed to assess results based on the color composition of images.
 ## Methods:
 <br/>
  * Stainer - This method is based on greyscaled pixel analysis.<br/><br/>
